@@ -1,0 +1,17 @@
+.footer {
+    background-color: rgb(16, 16, 94);
+    margin-bottom: 2rem;
+}
+
+h3 {
+    color: orange;
+    font-size: medium;
+}
+
+.footer p {
+    color: white;
+}
+
+.plan {
+    color: black;
+}
